@@ -1,0 +1,22 @@
+{
+    "cards":[{
+        "img":"images/mbl-1.jpeg",
+        "name":"redmi9pro",
+        "rate":"20000",
+        "offer":"18000",
+        "button":"view"
+    },{
+        "img":"images/mbl-2.jpg",
+        "name":"redmi8pro",
+        "rate":"18000",
+        "offer":"16000",
+        "button":"view"
+},{
+    "img":"images/mbl-3.webp",
+    "name":"redmi7pro",
+    "rate":"15000",
+    "offer":"14000",
+    "button":"view"
+}
+    ]
+}
